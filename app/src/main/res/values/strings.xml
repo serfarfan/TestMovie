@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestMovie</string>
+
+    <string name="title_main_screen">Popular</string>
+    <string name="title_upcoming">Próximamente</string>
+    <string name="title_top_rated">Más valorado</string>
+    <string name="no_internet">Se requiere acceso a internet para descargar la información</string>
+    <string name="no_internet_sync">Se requiere acceso a internet para sincronizar</string>
+
+
+</resources>
